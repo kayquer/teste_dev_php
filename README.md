@@ -13,10 +13,10 @@ Desenvolver um sistema para gerenciamento, coleta de respostas e avaliação de 
   Os tipos de campos podem incluir:
   - **text**: Campo para texto livre curto.
   - **textarea**: Campo para texto livre longo.
-  - **Número**: Campo para entrada de números.
-  - **Data**: Seletores de data.
-  - **Opções**: Radio buttons, checkboxes ou dropdowns para escolhas múltiplas ou únicas.
-  - **Arquivo**: Upload de arquivos.
+  - **number**: Campo para entrada de números.
+  - **data**: Seletores de data.
+  - **option**: Radio buttons, checkboxes ou dropdowns para escolhas múltiplas ou únicas.
+  - **file**: Upload de arquivos.
 
   Os campos devem permitir validações como obrigatório, máximo/mínimo de caracteres, entre outros.
 
