@@ -46,3 +46,12 @@ Desenvolver um sistema para gerenciamento, coleta de respostas e avaliação de 
 
 - **Backend**: PHP e MySQL
 - **Frontend**: HTML, JS e CSS
+
+
+## Formato de Entrega
+
+Após finalizar o teste, compacte novamente o arquivo e envie para dev@imobibrasil.com.br, com o assunto "Entrega Teste Backend". Importante utilizar o mesmo e-mail que usou em sua primeira comunicação.
+
+## Prazo
+
+A partir da data de recebimento do email com este repositório, você terá 5 dias para realização do teste.
